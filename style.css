@@ -39,5 +39,46 @@ strong {
     color: green;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+
+a.nav-link {
+    background-color: rgb(226, 142, 226);
+    margin: 20px 20px 0 0;
+    border-radius: 2px;
+}
+
+
+/* début image page nos produits */
+
+.img-thumbnail {
+    height: 50px;
+    width: 60px;
+}
+
+span {
+    font-family: cursive;
+    text-transform: capitalize;
+    color: #009900;
+    font-size: 2em;
+    padding-right: 0;
+    margin-right: 0;
+}
+
+#produit p {
+    margin: 0;
+}
+
+.pied_de_page {
+    text-align: justify;
+}
+
+strong {
+    color: green;
+}
+
 
 /* fin image page nos produits */
